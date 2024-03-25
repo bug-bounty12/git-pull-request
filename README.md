@@ -1,2 +1,1 @@
-# git-pull-request
-Send git pull requests via command line
+This is Hackerone Bug Bounty Test
